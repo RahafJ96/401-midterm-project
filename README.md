@@ -55,3 +55,22 @@ We will create an organizations in Github and create the project repository and 
 
 &nbsp;
 <hr>
+
+
+## Landing Pages 
+- Login in page
+
+![01](images/01.png)
+
+- Sign up 
+
+![01](images/02.png)
+
+- Home page 
+
+![01](images/03.png)
+
+- Profile
+
+![01](images/04.png)
+
